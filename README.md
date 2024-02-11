@@ -38,18 +38,8 @@
 </div>
 
 ###
-<!---
-<img align="center" height="350" width ="450" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
 
-###
-<p><img align="left" width="380"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-7070&show_icons=true&locale=en&layout=compact" alt="aryan-7070" /></p>
-
-<p>&nbsp;<img align="left" width="380"  src="https://github-readme-stats.vercel.app/api?username=aryan-7070&show_icons=true&locale=en" alt="aryan-7070" /></p>
-
-<p><img align="right" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p> -->
-<div style="text-align: right;">
-  <img height="250" width="350" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif" />
-</div>
+<img align="right" height="250" width ="350" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
 
 <h3 align="left">🔥   My Stats :</h3>
 
