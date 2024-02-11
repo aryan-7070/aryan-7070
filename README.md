@@ -39,11 +39,13 @@
 
 ###
 
-<img align="right" height="250" width ="350" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
+<img align="right" height="200" width ="300" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aryan-7070&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
