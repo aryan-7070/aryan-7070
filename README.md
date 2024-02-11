@@ -38,7 +38,7 @@
 </div>
 
 ###
-
+<!---
 <img align="center" height="350" width ="450" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
 
 ###
@@ -46,5 +46,31 @@
 
 <p>&nbsp;<img align="left" width="380"  src="https://github-readme-stats.vercel.app/api?username=aryan-7070&show_icons=true&locale=en" alt="aryan-7070" /></p>
 
-<p><img align="right" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
+<p><img align="right" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p> -->
+
+<html>
+<head>
+</head>
+<body>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img height="350" width="450" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif" />
+  </div>
+
+  <div style="text-align: left;">
+    <p><img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-7070&show_icons=true&locale=en&layout=compact" alt="aryan-7070" /></p>
+  </div>
+
+  <div style="text-align: left;">
+    <p>&nbsp;<img width="380" src="https://github-readme-stats.vercel.app/api?username=aryan-7070&show_icons=true&locale=en" alt="aryan-7070" /></p>
+  </div>
+
+  <div style="text-align: right;">
+    <p><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
+  </div>
+</body>
+</html>
+  <div class="container right-align">
+    <p><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
+  </div>
+
 
