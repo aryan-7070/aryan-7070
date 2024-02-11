@@ -48,16 +48,17 @@
 
 <p><img align="right" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p> -->
 <div style="text-align: center;">
-  <img height="350" width="450" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif" />
+  <img height="250" width="350" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif" />
 </div>
 
-<p><img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-7070&show_icons=true&locale=en&layout=compact" alt="aryan-7070" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<div>
-<p><img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=aryan-7070&show_icons=true&locale=en" alt="aryan-7070" /></p>
+###
 
-<p style="text-align: right;"><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aryan-7070&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 
 
