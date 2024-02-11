@@ -39,8 +39,7 @@
 
 ###
 
-<img align="right" height="200" width ="300" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
-</div>
+<img align="right" height="250" width ="350" src="https://i.pinimg.com/originals/75/af/80/75af805f72d4dcf7a9e984d7bff32c94.gif"  />
 
 ###
 
