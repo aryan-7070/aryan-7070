@@ -63,14 +63,11 @@
   <div style="text-align: left;">
     <p>&nbsp;<img width="380" src="https://github-readme-stats.vercel.app/api?username=aryan-7070&show_icons=true&locale=en" alt="aryan-7070" /></p>
   </div>
-
-  <div style="text-align: right;">
-    <p><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
+  <div  style ="text-align: right;">
+    <p ><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
   </div>
 </body>
 </html>
-  <div class="container right-align">
-    <p><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7070&" alt="aryan-7070" /></p>
-  </div>
+ 
 
 
