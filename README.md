@@ -45,7 +45,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=aryan-7070&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" width="450" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=aryan-7070&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" width="450" alt="streak graph"  /> -->
 </div>
 
 
